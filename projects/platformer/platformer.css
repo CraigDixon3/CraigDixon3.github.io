@@ -3,9 +3,8 @@ body {
 }
 
 canvas {
-  background-color: lightgray;
-}
-
+  background-color: rgb(79, 11, 11);
+  background-image:url("https://.com/tent/uploads/2013");
 img {
   display: none;
 }
