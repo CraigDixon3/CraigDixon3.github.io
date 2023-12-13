@@ -60,7 +60,7 @@ createPlatform(200,350,100,10)
     // Your collectable choices are 'database' 'diamond' 'grace' 'kennedi' 'max' and 'steve'; more can be added if you wish
     // example usage: createCollectable(type, x, y, gravity, bounce)
 
-
+aD
 
 
     // TODO 3
